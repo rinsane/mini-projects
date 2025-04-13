@@ -1,0 +1,6 @@
+Makefile
+sudo insmod simple.ko
+lsmod | grep simple
+simple                 12288  0
+sudo rmmod simple.ko
+lsmod | grep simple
