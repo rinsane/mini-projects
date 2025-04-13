@@ -6,7 +6,6 @@ A collection of academic and personal mini-projects exploring core computer scie
 
 ## Contents
 
-|--------------------------------|--------------------------------------------------------------------------|------------------------------|
 | Project                        | Description                                                              | Technologies                 |
 |--------------------------------|--------------------------------------------------------------------------|------------------------------|
 | **AI Algorithms**              | Implemented ACO for TSP, Genetic Algorithm for SAT, and N-Puzzle Solver. | Python, Algorithms           |
@@ -15,7 +14,6 @@ A collection of academic and personal mini-projects exploring core computer scie
 | **Parallel Algorithms**        | Implemented parallel prefix sum and tree-like summation.                 | C, OpenMP                    |
 | **Messaging Application**      | RSA-secured terminal-based chat application with file sharing.           | C, Sockets, RSA              |
 | **Thread Scheduler**           | Simulated FCFS, SJF, STCF, RR thread scheduling policies.                | C, pthreads                  |
-|--------------------------------|--------------------------------------------------------------------------|------------------------------|
 
 ---
 
