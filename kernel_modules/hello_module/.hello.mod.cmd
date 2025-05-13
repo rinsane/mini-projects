@@ -1,1 +1,0 @@
-savedcmd_/media/rira/Extra/COde_work/C/OS_Assignments/2022UCS0106_Rishabh_4/2022UCS0106_Rishabh_4/hello.mod := printf '%s\n'   hello.o | awk '!x[$$0]++ { print("/media/rira/Extra/COde_work/C/OS_Assignments/2022UCS0106_Rishabh_4/2022UCS0106_Rishabh_4/"$$0) }' > /media/rira/Extra/COde_work/C/OS_Assignments/2022UCS0106_Rishabh_4/2022UCS0106_Rishabh_4/hello.mod
